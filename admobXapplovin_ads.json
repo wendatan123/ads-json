@@ -4,14 +4,14 @@
   "admob": [
     {
       "banner": "ca-app-pub-2451590727367769/7164032664",
-      "native": "ca-app-pub-0",
+      "native": "ca-app-pub-2451590727367769/2848457099",
       "inter": "ca-app-pub-2451590727367769/7054121959"
     }
   ],
   "applovin": [
     {
       "inter": "",
-      "native": "00f2d2aa8d85ced0"
+      "native": ""
     }
   ]
 }
