@@ -1,6 +1,6 @@
 {
   "packagename_new_app": "",
-  "interval_interstitial": 3,
+  "interval_interstitial": 10,
   "applovin": [
     {
       "banner": "",
@@ -9,8 +9,8 @@
   ],
   "admob": [
     {
-      "banner": "ca-app-pub-3940256099942544/6300978111",
-      "interstitial": "ca-app-pub-3940256099942544/1033173712"
+      "banner": "",
+      "interstitial": ""
     }
   ]
 }
